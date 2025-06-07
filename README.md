@@ -94,19 +94,6 @@ uvicorn main:app --reload
 
 ---
 
-## Folder Structure
-
-```
-FoodChatBot-AI-assistant/
-│
-├── main.py             # FastAPI webhook server
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── ...                 # Other project files
-```
-
----
-
 ## Troubleshooting
 
 - Make sure your webhook URL is HTTPS and reachable from Dialogflow.
