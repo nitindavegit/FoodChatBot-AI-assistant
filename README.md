@@ -1,6 +1,5 @@
-
 # Food Ordering Assistant (Dialogflow + FastAPI)
-
+![image](https://github.com/user-attachments/assets/00b2e094-ce90-4368-9a26-1d006856c287)
 ## Overview
 
 This project is a conversational food ordering assistant built using **Dialogflow** for natural language understanding and **FastAPI** as the backend server.  
@@ -18,6 +17,7 @@ Users can add, remove, view, and complete their food orders through conversation
 - Session management with FastAPI backend
 
 ---
+
 
 ## Tech Stack
 
